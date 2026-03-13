@@ -1,6 +1,12 @@
-# 💫 About Me:
-I am an aspiring Data Analyst with hands-on experience in SQL and Python, currently building real-world projects in sales and business data analysis. I enjoy transforming raw data into meaningful insights that support better decision-making.<br>I am actively developing my skills in Power BI and Tableau for data visualization and dashboard creation, with a strong interest in business analytics and performance tracking.<br>I am seeking opportunities to apply my analytical skills, learn from real datasets, and grow as a data professional.
+# Hi, I'm Mayank 👋
 
+### 📊 Data Analyst(Fresher) | SQL • Python • Power BI
+
+I am a Computer Science student passionate about turning raw data into meaningful insights.  
+I enjoy working with real-world datasets to uncover patterns, build dashboards, and support data-driven decision making.
+Currently developing my skills through hands-on projects in **sales analytics, business data analysis, and data visualization**.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank_13bisht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank13in) 
