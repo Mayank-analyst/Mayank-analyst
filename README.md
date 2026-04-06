@@ -1,10 +1,12 @@
 # Hi, I'm Mayank 👋
 
-### 📊Aspiring Data Analyst | SQL • Python • Power BI • Advanced Excel
+### Aspiring Data Analyst  ·  SQL  ·  Python  ·  Power BI  ·  Tableau  ·  Excel
 
-I am a Computer Science student passionate about turning raw data into meaningful insights.  
-I enjoy working with real-world datasets to uncover patterns, build dashboards, and support data-driven decision making.
-Currently developing my skills through hands-on projects in **sales analytics, business data analysis, and data visualization**.
+Turning raw data into decisions that matter  |  Open to opportunities
+
+### About
+
+BSc Computer Science student passionate about data analysis, visualization, and building dashboards that tell clear stories. I work end-to-end — from cleaning messy datasets to delivering insights that drive smarter decisions.
 
 ---
 
@@ -12,33 +14,45 @@ Currently developing my skills through hands-on projects in **sales analytics, b
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank_13bisht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank13in) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# Data Analysis 
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-003B57?style=for-the-badge&logo=code&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+# Databases & Querying
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-003B57?style=for-the-badge&logo=code&logoColor=white)
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+# Data Visualization
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
+# Programming Language
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+# Tools and Workflow
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 📂 Projects(Recent)
+## 📂 Projects
 
-🔹 Retail Sales Data Analysis  
-- Analyzed monthly sales trends using Python & SQL  
-- Built visualizations to identify top-performing categories  
-- Tools: Python, Pandas, Matplotlib, SQLite  
+(Walmart Sales Analysis)                                               
+
+Power BI · SQL · Excel
+
+(Google Play Store EDA)
+
+Python · Pandas · EDA
 
 
 # 📊 GitHub Stats:
