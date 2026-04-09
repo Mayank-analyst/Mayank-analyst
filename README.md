@@ -70,7 +70,7 @@ Python · Pandas · EDA
 ![](https://github-profile-trophy.vercel.app/?username=Mayank-analyst&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mayank-analyst&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayank-analyst&theme=github-dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mayank-analyst&icon=0&color=0)](https://visitcount.itsvg.in)
