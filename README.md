@@ -72,14 +72,8 @@ Hi, I'm Mayank — a passionate Data Analyst in the making who enjoys turning ra
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mayank-analyst&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌏Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-analyst&layout=compact&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayank-analyst&theme=github-dark)
-
-### 🙎Profile Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Mayank-analyst&show_icons=true&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=Mayank-analyst&icon=0&color=0)](https://visitcount.itsvg.in)
 
