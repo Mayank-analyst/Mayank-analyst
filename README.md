@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayank-analyst/Mayank-analyst/main/banner.jpg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mayank-analyst/Mayank-analyst/main/Banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <br>
