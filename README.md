@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayank-analyst/Mayank-analyst/main/HELLO THERE.png" alt="banner" width="100%" />
+</p>
+
+<br>
 
 # Hi, I'm Mayank 👋
 
