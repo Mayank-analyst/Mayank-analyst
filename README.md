@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mayank-analyst/Mayank-analyst/main/Banner.jpg" alt="Banner" width="100%" />
-</p>
-
-<br>
 
 # Hi, I'm Mayank 👋
 
