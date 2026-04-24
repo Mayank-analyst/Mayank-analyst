@@ -45,6 +45,7 @@ Hi, I'm Mayank — a passionate Data Analyst in the making who enjoys turning ra
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-003B57?style=for-the-badge&logo=code&logoColor=white)
 
   Data Visualization
@@ -62,7 +63,7 @@ Hi, I'm Mayank — a passionate Data Analyst in the making who enjoys turning ra
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mayank-analyst&show_icons=true&theme=dark)<br/>
