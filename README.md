@@ -32,6 +32,7 @@ Hi, I'm Mayank — a passionate Data Analyst in the making who enjoys turning ra
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank_13bisht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank13in) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayank-analyst.github.io/Mayank-Bisht-Portfolio/)
 
 # 💻 Tech Stack:
 
